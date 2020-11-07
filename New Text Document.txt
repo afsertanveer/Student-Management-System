@@ -1,0 +1,7 @@
+<div id="footer_right">
+
+		<a href="http://www.uiu.ac.bd/admission/admission-notice/">Admission Notice</a></br>
+		<a href="http://degver.uiu.ac.bd/">Degree Varification</a></br>
+		<a href="http://convocation.uiu.ac.bd/">Convocation</a></br>
+			
+		</div>
